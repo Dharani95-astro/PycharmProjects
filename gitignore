@@ -1,0 +1,24 @@
+
+# This is a sample .gitignore file
+
+# Ignore log files
+*.log
+
+# Ignore node modules directory (for JavaScript projects)
+node_modules/
+
+# Ignore build artifacts
+build/
+dist/
+
+# Ignore operating system generated files
+.DS_Store
+Thumbs.db
+
+# Ignore image files
+*.png
+*.jpg
+*.jpeg
+
+# Ignore numpy compressed files
+*.npz
